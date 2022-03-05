@@ -4,4 +4,9 @@ For our traffic sign data set, we are going to access a repository on BitBucket 
 
 We will use a new technique for dealing with smaller data sets that will allow our network to learn more effectively.
 
-**Dataset link:** [Click here](https://bitbucket.org/jadslim/german-traffic-signs)
+**Dataset link:** [Click here](https://bitbucket.org/jadslim/german-traffic-signs) \
+The repository contains CSV and Piclke file.
+CSV, which is a spreadsheet that contains all of our traffic signs,along with their labeled names, a comma separated values type documents.
+
+
+The rest of the files are Pikul files that contain our respective training, testing and validation Pickled files in Python essentially contain serialized data that can be unpicked when desired, since the character stream contains all the information necessary to reconstruct the serialized object and thus unpick a link would be the inverse operation of pickling. So as to deserialized the Python object and make use of it in our program, the characters stream state is often more convenient to store and transfer, which makes pickling an important operation in Python.
