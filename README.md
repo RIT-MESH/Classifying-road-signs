@@ -24,3 +24,32 @@ The rest of the files are Pikul files that contain our respective training, test
 
 <p align="center"><img src="https://github.com/RIT-MESH/Classifying-road-signs/blob/main/1.PNG?raw=true"alt="Sublime's custom image"/>
 </p>
+
+
+<h1 align="center">Losses</h1>
+
+
+<p align="center"><img src="https://github.com/RIT-MESH/Classifying-road-signs/blob/main/3.PNG?raw=true"alt="Sublime's custom image"/>
+ </p> 
+  
+  
+ <h1 align="center">Accuracy</h1>
+
+
+<p align="center"><img src="https://github.com/RIT-MESH/Classifying-road-signs/blob/main/4.PNG?raw=true"alt="Sublime's custom image"/>
+  </p>
+  
+
+
+## Final output :
+
+
+   
+
+
+Original Image           |  Predicted Sign
+:-------------------------:|:-------------------------:
+<a href="https://github.com/RIT-MESH/Classifying-road-signs/blob/main/5.PNG" target="_blank"><img src="https://github.com/RIT-MESH/Classifying-road-signs/blob/main/5.PNG" width=450 height=200 ></a>  |  <a href="https://github.com/RIT-MESH/Classifying-road-signs/blob/main/6.PNG" target="_blank"><img src="https://github.com/RIT-MESH/Classifying-road-signs/blob/main/6.PNG" width=450 height=200 ></a>
+
+
+
